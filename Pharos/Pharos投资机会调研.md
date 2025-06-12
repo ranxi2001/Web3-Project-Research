@@ -22,7 +22,7 @@
 
 这篇研报研究比较深入：[全栈并行L1 网络 Pharos Network万字研报:前蚂蚁集团核心成员创立的新公链能否推动 Web3 完成大规模采用愿景?全景式拆解其发展背景、技术原理、应用布局和机遇挑战](https://research.web3caff.com/archives/30838?ref=1)
 
-需要付费的部分有摘抄：https://x.com/Web3Caff_Res/status/1920330940188143807
+部分摘抄：https://x.com/Web3Caff_Res/status/1920330940188143807
 
 [淘金手册 ｜Pharos：主打高性能与 RWA 上链的模块化 L1](https://foresightnews.pro/article/detail/84415)
 
@@ -35,3 +35,31 @@
 > Q:菠菜老师，PHaros有什么可以提前布局的地方吗？
 >
 > A:等主网
+
+
+
+找到了官网文档：[Pharos Docs](https://docs.pharosnetwork.xyz/)
+
+# [Validator Requirements](https://docs.pharosnetwork.xyz/node-and-validator-guide/validator-requirements)
+
+To ensure a validator operates effectively and efficiently, the minimum recommended hardware specifications are:
+
+Component
+
+Specification
+
+**CPU**
+
+16 cores, 2.8GHz or faster, AMD Milan EPYC or Intel Xeon Platinum
+
+**Memory**
+
+32 GB RAM
+
+**Storage**
+
+2 * 1TB SSD with at least 230MiB/s bandwidth and 10000 IOPS
+
+**Network Bandwidth**
+
+0.5 Gbps
