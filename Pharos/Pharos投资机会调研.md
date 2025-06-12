@@ -29,3 +29,9 @@
 难道测试网不让其他用户参与节点质押？？？
 
 [Pharos下一个国货之光](https://x.com/riyuexiaochu/status/1904863196298809572)
+
+> 问了一下 pharos的RWA Strategy Lead   [菠菜菠菜](https://x.com/bocaibocai_) ：
+>
+> Q:菠菜老师，PHaros有什么可以提前布局的地方吗？
+>
+> A:等主网
