@@ -38,28 +38,21 @@
 
 
 
-找到了官网文档：[Pharos Docs](https://docs.pharosnetwork.xyz/)
+找到了官网技术文档，包括验证节点搭建教程：[Pharos Docs](https://docs.pharosnetwork.xyz/)
+
+我们如果有服务器就可以部署节点（开发网络 DevNet）然后一上线主网我们就能做验证节点
+
+如果RWA项目多，效益好，能够获得稳定收益，并享有后续节点上链优先权
+
+> 以下为节点硬件要求摘录
 
 # [Validator Requirements](https://docs.pharosnetwork.xyz/node-and-validator-guide/validator-requirements)
 
 To ensure a validator operates effectively and efficiently, the minimum recommended hardware specifications are:
 
-Component
-
-Specification
-
-**CPU**
-
-16 cores, 2.8GHz or faster, AMD Milan EPYC or Intel Xeon Platinum
-
-**Memory**
-
-32 GB RAM
-
-**Storage**
-
-2 * 1TB SSD with at least 230MiB/s bandwidth and 10000 IOPS
-
-**Network Bandwidth**
-
-0.5 Gbps
+| 组件 | 规格要求 |
+|------|----------|
+| **CPU** | 16核心，2.8GHz或更高，AMD Milan EPYC或Intel Xeon Platinum |
+| **内存** | 32 GB RAM |
+| **存储** | 2 * 1TB SSD，至少230MiB/s带宽和10000 IOPS |
+| **网络带宽** | 0.5 Gbps |
